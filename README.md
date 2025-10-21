@@ -3,7 +3,6 @@
 
 # 👋 Hi, I'm Hadeer Mohamed
 <h3 style="color:#8b5cf6;">💻 Full Stack Developer | React & Node.js</h3>
-💻 *Full Stack Developer* |
 
 ---
 
