@@ -2,12 +2,13 @@
 ![Header](https://raw.githubusercontent.com/hadeer-mohamed98/hadeer-mohamed98/main/banner.png)
 
 # 👋 Hi, I'm Hadeer Mohamed
-
-💻 *Full Stack Developer* | I build fast, scalable, and user-friendly web applications with modern technologies.
+<h3 style="color:#8b5cf6;">💻 Full Stack Developer | React & Node.js</h3>
+💻 *Full Stack Developer* |
 
 ---
 
 ### 🚀 About Me
+- 💎 I build fast, scalable, and user-friendly web applications with modern technologies. 
 - 🌱 Currently focusing on *Next.js, **NestJS, and **TypeScript*  
 - 💼 Experienced in *React, **Node.js, **Express, **MongoDB, and **MySQL*  
 - 🧠 I love learning new technologies and improving code quality  
