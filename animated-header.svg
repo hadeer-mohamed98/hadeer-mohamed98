@@ -1,0 +1,49 @@
+<svg fill="none" viewBox="0 0 900 200" width="900" height="200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes typing1 {
+      0% { width: 0 }
+      40% { width: 100% }
+      60% { width: 100% }
+      100% { width: 0 }
+    }
+
+    @keyframes typing2 {
+      0%, 40% { width: 0 }
+      50% { width: 0 }
+      70% { width: 100% }
+      90% { width: 100% }
+      100% { width: 0 }
+    }
+
+    @keyframes blink {
+      50% { border-color: transparent }
+    }
+
+    text {
+      font-family: 'Segoe UI', monospace;
+      font-weight: 600;
+      font-size: 36px;
+    }
+
+    .typing {
+      fill: #2D1B69; /* بنفسجي غامق جدًا */
+      overflow: hidden;
+      white-space: nowrap;
+      border-right: .15em solid #2D1B69;
+      width: 0;
+      animation: typing1 8s steps(40, end) infinite, blink .75s step-end infinite;
+    }
+
+    .typing2 {
+      fill: #0A2342; /* أزرق غامق جدًا */
+      overflow: hidden;
+      white-space: nowrap;
+      border-right: .15em solid #0A2342;
+      width: 0;
+      animation: typing2 8s steps(40, end) infinite, blink .75s step-end infinite;
+    }
+  </style>
+
+  <text x="50" y="80" class="typing">👋 Hi, I'm Hadeer Mohamed</text>
+  <text x="50" y="140" class="typing2">💻 Full Stack Developer | React & Node.js</text>
+</svg>
