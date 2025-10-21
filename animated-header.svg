@@ -1,28 +1,37 @@
 <svg fill="none" viewBox="0 0 900 200" width="900" height="200" xmlns="http://www.w3.org/2000/svg">
   <defs>
+    <!-- تدرج لوني متحرك -->
     <linearGradient id="gradient1" x1="0%" y1="0%" x2="200%" y2="0%">
       <stop offset="0%" stop-color="#2D1B69">
-        <animate attributeName="offset" values="0;1;0" dur="4s" repeatCount="indefinite" />
+        <animate attributeName="offset" values="0;1;0" dur="6s" repeatCount="indefinite" />
       </stop>
       <stop offset="50%" stop-color="#0A2342">
-        <animate attributeName="offset" values="0.5;1.5;0.5" dur="4s" repeatCount="indefinite" />
+        <animate attributeName="offset" values="0.5;1.5;0.5" dur="6s" repeatCount="indefinite" />
       </stop>
       <stop offset="100%" stop-color="#4B0082">
-        <animate attributeName="offset" values="1;2;1" dur="4s" repeatCount="indefinite" />
+        <animate attributeName="offset" values="1;2;1" dur="6s" repeatCount="indefinite" />
       </stop>
     </linearGradient>
   </defs>
 
   <style>
-    @keyframes type {
-      0% {ch: 0;}
-      40% {ch: var(--chars);}
-      60% {ch: var(--chars);}
-      100% {ch: 0;}
+    @keyframes typing1 {
+      0% { width: 0 }
+      40% { width: 100% }
+      60% { width: 100% }
+      100% { width: 0 }
+    }
+
+    @keyframes typing2 {
+      0%, 40% { width: 0 }
+      50% { width: 0 }
+      70% { width: 100% }
+      90% { width: 100% }
+      100% { width: 0 }
     }
 
     @keyframes blink {
-      50% { border-color: transparent; }
+      50% { border-color: transparent }
     }
 
     @keyframes wave {
@@ -32,7 +41,8 @@
       30% { transform: rotate(14deg); }
       40% { transform: rotate(-4deg); }
       50% { transform: rotate(10deg); }
-      60%, 100% { transform: rotate(0deg); }
+      60% { transform: rotate(0deg); }
+      100% { transform: rotate(0deg); }
     }
 
     text {
@@ -42,37 +52,20 @@
       fill: url(#gradient1);
     }
 
-    .line {
-      border-right: .15em solid #2D1B69;
-      white-space: nowrap;
+    .typing {
       overflow: hidden;
-      width: 0ch;
-      animation: blink .75s step-end infinite;
+      white-space: nowrap;
+      border-right: .15em solid #2D1B69;
+      width: 0;
+      animation: typing1 8s steps(40, end) infinite, blink .75s step-end infinite;
     }
 
-    .line1 {
-      --chars: 20;
-      animation: typing1 4s steps(20, end) 0s infinite alternate;
-    }
-
-    .line2 {
-      --chars: 34;
-      animation: typing2 4s steps(34, end) 4s infinite alternate;
-    }
-
-    @keyframes typing1 {
-      0% { width: 0ch; }
-      40% { width: 20ch; }
-      60% { width: 20ch; }
-      100% { width: 0ch; }
-    }
-
-    @keyframes typing2 {
-      0%, 49.9% { width: 0ch; }
-      60% { width: 0ch; }
-      70% { width: 34ch; }
-      90% { width: 34ch; }
-      100% { width: 0ch; }
+    .typing2 {
+      overflow: hidden;
+      white-space: nowrap;
+      border-right: .15em solid #0A2342;
+      width: 0;
+      animation: typing2 8s steps(40, end) infinite, blink .75s step-end infinite;
     }
 
     .wave-hand {
@@ -81,7 +74,10 @@
     }
   </style>
 
+  <!-- الإيموجي المتحرك -->
   <text x="50" y="80" class="wave-hand">👋</text>
-  <text x="90" y="80" class="line line1">Hi, I'm Hadeer Mohamed</text>
-  <text x="50" y="140" class="line line2">💻 Full Stack Developer | React & Node.js</text>
+
+  <!-- النصوص -->
+  <text x="90" y="80" class="typing">Hi, I&#39;m Hadeer Mohamed</text>
+  <text x="50" y="140" class="typing2">💻 Full Stack Developer | React &amp; Node.js</text>
 </svg>
