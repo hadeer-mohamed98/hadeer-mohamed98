@@ -1,6 +1,6 @@
 <svg fill="none" viewBox="0 0 900 200" width="900" height="200" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- التدرج اللوني المتحرك -->
+    <!-- تدرج لوني متحرك -->
     <linearGradient id="gradient1" x1="0%" y1="0%" x2="200%" y2="0%">
       <stop offset="0%" stop-color="#2D1B69">
         <animate attributeName="offset" values="0;1;0" dur="6s" repeatCount="indefinite" />
@@ -34,6 +34,17 @@
       50% { border-color: transparent }
     }
 
+    @keyframes wave {
+      0% { transform: rotate(0deg); }
+      10% { transform: rotate(14deg); }
+      20% { transform: rotate(-8deg); }
+      30% { transform: rotate(14deg); }
+      40% { transform: rotate(-4deg); }
+      50% { transform: rotate(10deg); }
+      60% { transform: rotate(0deg); }
+      100% { transform: rotate(0deg); }
+    }
+
     text {
       font-family: 'Segoe UI', monospace;
       font-weight: 700;
@@ -56,8 +67,17 @@
       width: 0;
       animation: typing2 8s steps(40, end) infinite, blink .75s step-end infinite;
     }
+
+    .wave-hand {
+      transform-origin: 60px 75px;
+      animation: wave 2s infinite ease-in-out;
+    }
   </style>
 
-  <text x="50" y="80" class="typing">👋 Hi, I'm Hadeer Mohamed</text>
+  <!-- الإيموجي المتحرك -->
+  <text x="50" y="80" class="wave-hand">👋</text>
+
+  <!-- النصوص -->
+  <text x="90" y="80" class="typing">Hi, I'm Hadeer Mohamed</text>
   <text x="50" y="140" class="typing2">💻 Full Stack Developer | React & Node.js</text>
 </svg>
