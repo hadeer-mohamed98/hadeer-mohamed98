@@ -1,20 +1,22 @@
 <!-- 🖼️ Header Banner -->
 ![Header](https://raw.githubusercontent.com/hadeer-mohamed98/hadeer-mohamed98/main/banner.png)
+# 👋 Hi, I'm Hadeer Mohamed
 
-<h1 align="center">🌙 Hi, I'm <span style="color:#c084fc;">Hadeer Mohamed</span></h1>
-<h3 align="center" style="color:#8b5cf6;">💻 Full Stack JavaScript Developer | React & Node.js</h3>
+💻 *Full Stack Developer* | I build fast, scalable, and user-friendly web applications with modern technologies.
 
 ---
 
 <div align="center">
 
-### 💫 About Me
+### 🚀 About Me
+- 🌱 Currently focusing on *Next.js, **NestJS, and **TypeScript*  
+- 💼 Experienced in *React, **Node.js, **Express, **MongoDB, and **MySQL*  
+- 🧠 I love learning new technologies and improving code quality  
+- 💬 Ask me about *frontend architectures, **API design, or **MERN stack development*  
+- ⚡ Fun fact: I enjoy turning complex ideas into simple, working solutions 💡
 
-✨ I'm a **Full Stack JavaScript Developer** passionate about creating powerful, modern web applications.  
-🚀 I specialize in **React**, **Node.js**, and **MongoDB**, crafting both the frontend and backend with care.  
-🌱 Currently learning **Next.js** and **TypeScript** to level up my skills.  
-💡 I love writing clean, reusable code that makes users happy.  
-⚡ Fun fact: I don't need coffee or music to focus — just a good challenge to solve 😄  
+---
+
 
 </div>
 
@@ -63,10 +65,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hadeer-m-salah-78a438154" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%238b5cf6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://camo.githubusercontent.com/8c0692475a5bfc1d9e7361074bdb648e567cae7b5b40ffd32adae31180b0d7b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn"/>
   </a>
   <a href="mailto:hadeer.mohamed.salah2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23c084fc?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-hadeer.mohamed.salah2%40gmail.com-001F3F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
