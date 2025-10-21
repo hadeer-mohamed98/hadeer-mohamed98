@@ -41,5 +41,5 @@
 ---
 
 ### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/hadeer-m-salah-78a438154?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 [![Email](https://img.shields.io/badge/Email-hadeer.mohamed98%40gmail.com-purple?style=for-the-badge)](mailto:hadeer.mohamed.salah2@gmail.com)
