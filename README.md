@@ -1,5 +1,5 @@
 <!-- 🖼️ Header Banner -->
-![Header](https://raw.githubusercontent.com/hadeer-mohamed98/hadeer-mohamed98/main/banner.png)
+![Header](https://github.com/hadeer-mohamed98/hadeer-mohamed98/blob/main/github-image.png?raw=true)
 
 # 👋 Hi, I'm Hadeer Mohamed
 <h3 style="color:#8b5cf6;">💻 Full Stack Developer | React & Node.js</h3>
