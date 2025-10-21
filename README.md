@@ -31,7 +31,7 @@ Git GitHub VS Code Postman Figma
 
 ### 🧠 Tech Stack
 
-<div align="center">
+
 
 #### 🎨 Frontend
 `JavaScript` `React` `Next.js` `Redux` `TailwindCSS` `HTML` `CSS`
@@ -42,7 +42,6 @@ Git GitHub VS Code Postman Figma
 #### 🧰 Tools
 `Git` `GitHub` `VS Code` `Postman` `Figma`
 
-</div>
 
 ---
 
