@@ -16,19 +16,6 @@
 
 ---
 
-### 🛠 Tech Stack
-#### Frontend:
-HTML CSS JavaScript React Next.js Redux Bootstrap TailwindCSS
-
-#### Backend:
-Node.js Express NestJS MongoDB MySQL REST API
-
-#### Tools:
-Git GitHub VS Code Postman Figma
-
----
-
-
 ### 🧠 Tech Stack
 
 
