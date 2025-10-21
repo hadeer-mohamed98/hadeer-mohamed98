@@ -1,45 +1,61 @@
-# 👋 Hi, I'm Hadeer Mohamed
+<!-- Header Banner -->
+![Header](https://raw.githubusercontent.com/hadeer-mohamed98/hadeer-mohamed98/main/banner.png)
 
-💻 **Full Stack Developer** | I build fast, scalable, and user-friendly web applications with modern technologies.
-
----
-
-### 🚀 About Me
-- 🌱 Currently focusing on **Next.js**, **NestJS**, and **TypeScript**  
-- 💼 Experienced in **React**, **Node.js**, **Express**, **MongoDB**, and **MySQL**  
-- 🧠 I love learning new technologies and improving code quality  
-- 💬 Ask me about **frontend architectures**, **API design**, or **MERN stack development**  
-- ⚡ Fun fact: I enjoy turning complex ideas into simple, working solutions 💡
+<h1 align="center">👋 Hi, I'm <span style="color:#a855f7;">Hadeer Mohamed</span></h1>
+<h3 align="center" style="color:#6366f1;">💻 Full Stack Developer | React & Node.js</h3>
 
 ---
 
-### 🛠️ Tech Stack
-#### Frontend:
+### ✌ About Me
+✨ Passionate **Full Stack Developer** specialized in creating modern, responsive, and efficient web applications.  
+🌱 Currently improving my skills in **Next.js**, **NestJS**, and **TypeScript**.  
+💬 I love discussing **frontend architectures**, **API design**, and **MERN stack** development.  
+⚡ Fun fact: I enjoy turning complex ideas into simple, working solutions 💡  
+
+---
+
+### 🎨 Tech Stack
+#### 🖥️ Frontend
 `HTML` `CSS` `JavaScript` `React` `Next.js` `Redux` `Bootstrap` `TailwindCSS`
 
-#### Backend:
+#### ⚙️ Backend
 `Node.js` `Express` `NestJS` `MongoDB` `MySQL` `REST API`
 
-#### Tools:
+#### 🧰 Tools
 `Git` `GitHub` `VS Code` `Postman` `Figma`
 
 ---
 
-### 📊 GitHub Stats
-![Hadeer’s GitHub stats](https://github-readme-stats.vercel.app/api?username=hadeer-mohamed98&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadeer-mohamed98&layout=compact&theme=radical)
+### 🚀 Featured Projects
+| 🌟 Project | 💬 Description | 🔗 Link |
+|-------------|----------------|--------|
+| **Saraha-App** | Simple anonymous messaging app built with JavaScript | [🔗 View Repo](https://github.com/hadeer-mohamed98/Saraha-App) |
+| **Daniels** | Responsive landing page template built using HTML & CSS | [🔗 View Repo](https://github.com/hadeer-mohamed98/Daniels) |
+| **DevFolio** | Modern developer portfolio landing page | [🔗 View Repo](https://github.com/hadeer-mohamed98/DevFolio) |
+| **Mealify** | Restaurant landing page with creative design | [🔗 View Repo](https://github.com/hadeer-mohamed98/Mealify) |
+| **Quotes** | Random quote generator using JavaScript | [🔗 View Repo](https://github.com/hadeer-mohamed98/Quotes) |
+| **Login-System** | Smart login system using HTML, CSS & JS | [🔗 View Repo](https://github.com/hadeer-mohamed98/Login-System) |
 
 ---
 
-### 🧩 Featured Projects
-| Project | Description | Link |
-|----------|--------------|------|
-| **Portfolio Website** | My personal portfolio built with React and TailwindCSS | [🔗 View Repo](https://github.com/hadeer-mohamed98/portfolio) |
-| **Task Manager App** | Full-stack MERN app to manage daily tasks | [🔗 View Repo](https://github.com/hadeer-mohamed98/task-manager) |
-| **E-commerce API** | RESTful API built with Node.js, Express, and MongoDB | [🔗 View Repo](https://github.com/hadeer-mohamed98/ecommerce-api) |
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hadeer-mohamed98&show_icons=true&theme=tokyonight" alt="Hadeer's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadeer-mohamed98&layout=compact&theme=tokyonight" alt="Top Langs" height="165" />
+</p>
 
 ---
 
 ### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/hadeer-m-salah-78a438154?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-[![Email](https://img.shields.io/badge/Email-hadeer.mohamed98%40gmail.com-purple?style=for-the-badge)](mailto:hadeer.mohamed.salah2@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/hadeer-m-salah-78a438154" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%236366F1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:hadeer.mohamed98@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23E879F9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+⭐ *"Code with passion, create with purpose."*
