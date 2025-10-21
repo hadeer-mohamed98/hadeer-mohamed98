@@ -1,12 +1,11 @@
 <!-- 🖼️ Header Banner -->
 ![Header](https://raw.githubusercontent.com/hadeer-mohamed98/hadeer-mohamed98/main/banner.png)
+
 # 👋 Hi, I'm Hadeer Mohamed
 
 💻 *Full Stack Developer* | I build fast, scalable, and user-friendly web applications with modern technologies.
 
 ---
-
-<div align="center">
 
 ### 🚀 About Me
 - 🌱 Currently focusing on *Next.js, **NestJS, and **TypeScript*  
@@ -17,10 +16,18 @@
 
 ---
 
+### 🛠 Tech Stack
+#### Frontend:
+HTML CSS JavaScript React Next.js Redux Bootstrap TailwindCSS
 
-</div>
+#### Backend:
+Node.js Express NestJS MongoDB MySQL REST API
+
+#### Tools:
+Git GitHub VS Code Postman Figma
 
 ---
+
 
 ### 🧠 Tech Stack
 
