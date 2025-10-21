@@ -75,9 +75,9 @@
   </style>
 
   <!-- الإيموجي المتحرك -->
-  <text x="50" y="80" class="wave-hand">👋 </text>
+  <text x="50" y="80" class="wave-hand">👋</text>
 
   <!-- النصوص -->
-  <text x="90" y="80" class="typing"> Hi, I&#39;m Hadeer Mohamed</text>
-  <text x="50" y="140" class="typing2">💻 Full Stack Developer | React & Node.js</text>
+  <text x="90" y="80" class="typing">Hi, I&#39;m Hadeer Mohamed</text>
+  <text x="50" y="140" class="typing2">💻 Full Stack Developer | React &amp; Node.js</text>
 </svg>
