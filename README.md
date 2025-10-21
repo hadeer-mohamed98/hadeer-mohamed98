@@ -1,8 +1,11 @@
 <!-- 🖼️ Header Banner -->
-![Header](https://github.com/hadeer-mohamed98/hadeer-mohamed98/blob/main/github-image.png?raw=true)
-
-# 👋 Hi, I'm Hadeer Mohamed
-<h3 style="color:#8b5cf6;">💻 Full Stack Developer | React & Node.js</h3>
+<!-- ![Header](https://github.com/hadeer-mohamed98/hadeer-mohamed98/blob/main/github-image.png?raw=true) -->
+<!-- 🌌 Animated Banner -->
+<p align="center">
+  <img src="https://raw.githack.com/hadeer-mohamed98/hadeer-mohamed98/main/animated-header.svg" alt=" Hi, I'm Hadeer Mohamed 👋 " />
+</p>
+<!-- # 👋 Hi, I'm Hadeer Mohamed
+<h3 style="color:#8b5cf6;">💻 Full Stack Developer | React & Node.js</h3> -->
 
 ---
 
